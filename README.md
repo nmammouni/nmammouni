@@ -80,7 +80,7 @@
 
 </td></tr></table>
 <br>
-<!--
+
 ## My Skills
 
 <div style="overflow-x: auto;">
@@ -168,4 +168,4 @@
     </tbody>
   </table>
 </div>
--->
+
