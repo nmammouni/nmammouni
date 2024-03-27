@@ -133,15 +133,30 @@
   
  <tr>
 <td width="30%">
-  <img src="3DPrinting.jpg" alt="3D Printing" />
+  <img src="certificate7.png" alt="3D Printing" />
   </td>
   
 <td width="30%">
-   <img src="flask.jpg" alt="flask" />
+   <img src="certificate8.png" alt="flask" />
   </td>
   
 <td  width="30%">
-   <img src="ocvcertificate.jpg" alt="Open Cv" />
+   <img src="certificate9.png" alt="Open Cv" />
+  </td>
+  </tr>
+
+    
+ <tr>
+<td width="30%">
+  <img src="certificate10.png" alt="3D Printing" />
+  </td>
+  
+<td width="30%">
+   <img src="certificate11.png" alt="flask" />
+  </td>
+  
+<td  width="30%">
+   <img src="certificate12.png" alt="Open Cv" />
   </td>
   </tr>
   
