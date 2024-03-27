@@ -95,4 +95,59 @@
     </tbody>
   </table>
 </div>
+<br>
+
+## Certifications
+<table>
+  <tr>
+<td width="30%">
+  <img src="certificate1.png" alt="convolutional Networks" />
+  </td>
+  
+<td width="30%">
+   <img src="certificate2.png" alt="Deep_learning" />
+  </td>
+  
+<td  width="30%">
+   <img src="certificate3.png" alt="AI For Every One" />
+  </td>
+  </tr>
+  
+  
+  
+  <tr>
+<td width="30%">
+  <img src="certificate4.png" alt="Python Micrsoft ceritification" />
+  </td>
+  
+<td width="30%">
+   <img src="certificate5.png" alt="introduction to tensorflow" />
+  </td>
+  
+<td  width="30%">
+   <img src="certificate6.png" alt="python Projects" />
+  </td>
+  </tr>
+  
+  
+  
+ <tr>
+<td width="30%">
+  <img src="3DPrinting.jpg" alt="3D Printing" />
+  </td>
+  
+<td width="30%">
+   <img src="flask.jpg" alt="flask" />
+  </td>
+  
+<td  width="30%">
+   <img src="ocvcertificate.jpg" alt="Open Cv" />
+  </td>
+  </tr>
+  
+  
+  
+  
+  
+</table>
 
