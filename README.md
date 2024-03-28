@@ -1,5 +1,8 @@
 ![githunbg](https://github.com/nmammouni/nmammouni/assets/125776167/509a53dd-97c9-4b44-81ec-57a8f6a1467d)
-## Hello, World of Data-Driven Discovery, I’m Nizar Mamouni
+<!--## Hello, World of Data-Driven Discovery, I’m Nizar Mamouni-->
+<h5 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello,+World!+of+Data-Driven+Discovery,+I'm+Nizar+Mamouni;" />
+</h5>
 
 - 💡 I'm a master’s graduate in Data Science & Business Analytics from UNC Charlotte, specializing in data management and predictive analytics.
 - 🎓 Earned my stripes in Mathematics for Business at UNC Charlotte, diving deep into the world of numbers and analysis.
