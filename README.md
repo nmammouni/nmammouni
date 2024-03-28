@@ -193,3 +193,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmammouni&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="nmammouni" height="230px"/>
 <br/>
 </details>
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p> -->
