@@ -26,7 +26,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Data management and governance</td>
+        <td>Data management</td>
         <td>Python</td>
         <td>Numpy</td>
         <td>Communication (4 languages)</td>
